@@ -2,7 +2,6 @@
 # getdata-016 Assignment
 # 12.21.2014
 # vandrei@gmu.edu
-# victor.s.andrei@hp.com
 
 # read in the activity labels
 activity_labels <- read.table("activity_labels.txt")
