@@ -88,4 +88,4 @@ colnames(har_smartphone) <- gsub("mean", "mean-of-means", colnames(har_smartphon
 colnames(har_smartphone) <- gsub("std",  "mean-of-stds",  colnames(har_smartphone))
 
 # write the second data set to a file
-write.table(har_smartphone, file = "har-smartphone.csv", sep=",", row.names=FALSE)
+write.table(har_smartphone, file = "har-smartphone.txt", sep=",", row.names=FALSE)
