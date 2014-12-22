@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 #### README for HAR Smartphone Data Set (getdata-016)
 
 **Victor Andrei**

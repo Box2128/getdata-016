@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 #### Codebook for HAR Smartphone Data Set (getdata-016)
 
 **Victor Andrei**
