@@ -16,6 +16,6 @@ Open the script (run_analysis.R) and run the contents of the entire script. The 
 
 (Note to reader: make sure that you have the dplyr package installed in R prior to running the analysis script. Successful execution of the analysis script depends on the presence of this package.)
 
-**Codebook**
+**Codebook File**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the codebook (codebook.md) to find descriptions of each of the variables in the tidy data set, as well as possible values or ranges of values for each variables.
+Open the codebook (codebook.md) to find descriptions of each of the variables in the tidy data set, as well as possible values or ranges of values for each variables.
