@@ -16,9 +16,9 @@ Numerous data files from the original data set are contained within the test and
 
 **Analysis Script**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the script (run_analysis.R) and run the contents of the entire script. The script will output a tidy data set (har-smartphone.txt).
+Open the script (run_analysis.R) and run the contents of the entire script. The script will output a tidy data set (har-smartphone.txt).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Note to reader: make sure that you have the dplyr package installed in R prior to running the analysis script. Successful execution of the analysis script depends on the presence of this package.)
+(Note to reader: make sure that you have the dplyr package installed in R prior to running the analysis script. Successful execution of the analysis script depends on the presence of this package.)
 
 **Codebook**
 
